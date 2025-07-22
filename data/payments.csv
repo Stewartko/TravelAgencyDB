@@ -1,0 +1,11 @@
+payment_id,reservation_id,amount,payment_date,payment_method,payment_status
+1,8,417.19,2025-01-10 21:16:20,bank_transfer,pending
+2,8,1935.89,2025-01-24 13:24:25,bank_transfer,completed
+3,10,923.68,2025-02-04 22:07:55,card,completed
+4,3,1034.07,2025-01-06 03:36:01,card,pending
+5,1,1278.49,2025-02-10 10:58:26,card,pending
+6,4,710.92,2025-02-28 04:01:15,bank_transfer,completed
+7,1,1470.58,2025-01-02 19:05:08,bank_transfer,pending
+8,1,1819.34,2025-01-21 22:58:26,bank_transfer,pending
+9,10,626.67,2025-01-21 09:55:52,bank_transfer,completed
+10,3,543.63,2025-01-04 17:46:39,bank_transfer,refunded

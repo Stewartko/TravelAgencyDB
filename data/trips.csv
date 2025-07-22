@@ -1,0 +1,11 @@
+trip_id,destination_id,start_date,end_date,price,currency,capacity,status
+1,9,2024-10-10,2024-10-17,307.33,EUR,48,available
+2,10,2024-12-26,2024-12-29,1023.33,EUR,49,available
+3,4,2024-03-18,2024-03-21,719.11,EUR,28,available
+4,7,2024-10-01,2024-10-05,1162.66,EUR,23,available
+5,2,2025-01-18,2025-01-22,143.54,EUR,18,available
+6,9,2025-02-12,2025-02-26,1288.34,EUR,34,available
+7,3,2024-05-05,2024-05-14,1388.43,EUR,33,available
+8,5,2024-08-05,2024-08-13,414.45,EUR,44,available
+9,8,2025-02-22,2025-02-27,782.01,EUR,50,available
+10,10,2024-12-01,2024-12-12,1132.73,EUR,40,available

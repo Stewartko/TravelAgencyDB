@@ -1,0 +1,11 @@
+transport_id,type,company,transport_number,departure_datetime,arrival_datetime,departure_location,arrival_location
+1,own,Brooks,WYFsN-14825,2025-03-02 10:02:31,2025-03-02 19:02:31,Kamenica nad Cirochou,Predajná
+2,plane,Mullins Hoffman k.s.,luXsF-05391,2025-02-16 23:10:21,2025-02-17 06:10:21,Medovarce,Ľuboreč
+3,bus,Taylor k.s.,UuGLC-18672,2025-02-08 23:56:53,2025-02-09 00:56:53,Lopašov,Keť
+4,train,Kirby s.r.o.,YXRcU-08340,2025-01-03 23:25:06,2025-01-04 02:25:06,Slančík,Rovensko
+5,plane,Dorsey Arnold k.s.,AJYYN-34597,2025-01-22 02:35:22,2025-01-22 03:35:22,Legnava,Podolie
+6,bus,Tyler,VEmYk-81127,2025-02-05 15:55:10,2025-02-06 00:55:10,Bojničky,Suchá Dolina
+7,train,Ellis,hMPJj-29663,2025-01-22 10:13:51,2025-01-22 16:13:51,Turčiansky Ďur,Lipové
+8,train,Anderson,QbDYZ-23576,2025-02-20 18:20:45,2025-02-21 03:20:45,Vozokany,Tepličky
+9,ship,Gonzalez,MoiVz-29385,2025-01-31 12:22:22,2025-01-31 15:22:22,Vislanka,Krásnohorské Podhradie
+10,train,Carr,jXeWv-12853,2025-01-23 15:54:40,2025-01-23 23:54:40,Vavrinec,Dolný Harmanec

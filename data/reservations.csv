@@ -1,0 +1,11 @@
+reservation_id,client_id,trip_id,number_of_people,reservation_date,total_price,status,notes
+1,4,6,1,2025-01-02 19:00:02,428.41,paid,Assumenda a eum molestiae at.
+2,9,2,3,2025-01-15 03:23:50,321.87,confirmed,Laboriosam dolores quis.
+3,1,9,1,2025-02-16 03:57:11,404.51,paid,Officia reiciendis numquam.
+4,1,7,5,2025-01-27 18:07:08,988.12,paid,Maxime quisquam hic ad.
+5,7,8,5,2025-02-06 16:14:42,1745.37,pending,Facere accusantium dolorem.
+6,4,8,4,2025-01-21 05:45:56,960.22,paid,Ab ab expedita in.
+7,2,6,4,2025-01-15 08:40:48,619.43,cancelled,Non mollitia voluptas.
+8,10,4,1,2025-01-14 20:28:23,1828.31,confirmed,Rerum voluptates non debitis.
+9,6,2,3,2025-02-15 05:58:39,1572.84,cancelled,Magnam dolor doloremque id.
+10,9,3,2,2025-02-10 05:40:51,429.4,pending,Cumque explicabo harum sed.

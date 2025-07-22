@@ -1,0 +1,11 @@
+accommodation_id,name,address,price_per_night,type,capacity,rating
+1,Harris,"Bottova 1094 35 Tehla",109.51,motel,29,4
+2,Crawford Johnson k.s.,"Májkova 5021 51 Udiča",185.66,hotel,5,4
+3,Griffin v.o.s.,"Búdkova cesta 937969 08 Horný Hričov",84.36,campsite,5,5
+4,Morgan k.s.,"Vetvárska 80823 82 Harichovce",123.02,motel,16,3
+5,Shaffer Munoz v.o.s.,"Belehradská 92966 30 Smrečany",36.51,motel,93,4
+6,Rice,"Mošovského 582825 91 Lipníky",207.91,apartment,32,5
+7,Lee Phillips s.r.o.,"Sreznevského 6879 07 Tarnov",110.76,hotel,16,1
+8,Murphy,"Turnianska 5954 34 Iňačovce",53.01,hostel,95,1
+9,Singh,"Suchohradská 8804 20 Šarovce",179.8,apartment,26,3
+10,Maddox,"Klenová 980875 10 Hrišovce",60.25,campsite,59,4
